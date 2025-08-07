@@ -2,18 +2,8 @@
 Membuat Aplikasi Donasi Galang Dana dengan Android Studio
 
 # Tutorial Build with Android Studio
-https://youtu.be/EpJDO5K2Suc
+(https://drive.google.com/file/d/1ou-4tA82JdfX0UyEibM5GXgF_G59DaTo/view?usp=sharing)
 
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2023/11/tutorial-membuat-aplikasi-donasi-galang-dana.html
-
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7qkUL_E8yFMia46WH4mtYJFx5J4NENhzofxdX_pL81D8nM_An6hYgcsJOjxxIW_dv9UUGAuQDD7C60a2ogapAE75RAdRES-z_5G2VPpuborCxfaJALetVbbvAoZXPszsCiSRgk9XSxFMvkUS8sRD18xjigBopFfgFAB4OBQL482h3JXzHF8r8863xD07/s1280/Tutorial%20Membuat%20Aplikasi%20Donasi%20Galang%20Dana%20dengan%20Android%20Studio.png" data-canonical-src="https://rivaldi48.blogspot.com/2023/11/tutorial-membuat-aplikasi-donasi-galang-dana.html" style="max-width:100%;">
-
-****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
-
-## 👇 Click For Support Me :
-<a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
 
 ## 📄 License
 
